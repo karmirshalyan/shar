@@ -47,18 +47,8 @@ body {
 
 }
 button {
-	/* position: absolute;
-	display: flex;
-    align-items: center;
-	left: 43%;*/
-	/* top: 80%;  */
-	/* justify-content: center !important; */
 	background-repeat: no-repeat;
-	/* display: flex; */
-	/* margin: 0 auto; */
-	/* display: block; */
-	/* text-align: center; */
-    margin: 0;
+	margin: 0;
     position: absolute;
     left: 50%;
 	top: 80%;
