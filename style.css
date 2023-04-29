@@ -46,9 +46,18 @@ body {
 	padding-bottom: 30%;
 
 }
+
+.tg{
+	position: absolute;
+	top: 93%;
+	left: 93%;
+
+}
+
 button {
-	background-repeat: no-repeat;
-	margin: 0;
+
+    background-repeat: no-repeat;
+    margin: 0;
     position: absolute;
     left: 50%;
 	top: 80%;
