@@ -91,4 +91,16 @@ button:is(:hover, :focus-visible) {
 }
 
 
+@media screen and (max-width: 700px) {
+	body{ zoom: 75%}
+}
+
+
+@media screen and (max-height: 700px) {
+	body{ zoom: 75%}
+}
+
+@media screen and (max-height: 900px) {
+	body{ zoom: 100%}
+}
 
