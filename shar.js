@@ -1,4 +1,4 @@
-alert("задай мне свой вопрос и я тебе отвечу p.s если ты сдохнешь я не виноват")
+alert("задай мне свой вопрос и я тебе отвечу на него")
 function rand(min, max){
     return parseInt(Math.random()*(max-min+1))+min
 
