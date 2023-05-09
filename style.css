@@ -90,17 +90,8 @@ button:is(:hover, :focus-visible) {
 	--play-state: running;
 }
 
-
-@media screen and (max-width: 700px) {
-	body{ zoom: 75%}
-}
-
-
 @media screen and (max-height: 700px) {
-	body{ zoom: 75%}
+	button {
+		top:90%;
+	}
 }
-
-@media screen and (max-height: 900px) {
-	body{ zoom: 100%}
-}
-
